@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+form {
+    border: 1px solid gray;
+    padding: 10% 15%;
+    margin-top: 20%;
+}
+
+.btn, .alert{
+    margin: 1em 0;
+}
+
+h2{
+    margin-bottom: 1em;
+}
+form label{
+    margin-top:1em;
+}
